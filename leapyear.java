@@ -13,7 +13,7 @@ System.out.println("leap year");
 }
 else
 {
-System.out.println("not leap year");
+System.out.println("non leap year");
 }
 }
 }
